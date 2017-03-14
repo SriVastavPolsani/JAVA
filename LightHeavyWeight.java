@@ -1,0 +1,18 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package fight;
+
+/**
+ *
+ * @author SriVastav
+ */
+public class LightHeavyWeight {
+    
+    private void TrashTalk(){
+        System.out.println("The champ champ does what he wants");
+    }
+    
+}
